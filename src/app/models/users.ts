@@ -1,4 +1,4 @@
 export type User = {
-  id: number; // a UUID
-  email: string;
+	id: string; // a UUID
+	email: string;
 };
